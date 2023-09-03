@@ -62,7 +62,7 @@ several prototypes and proof-of-concept projects for customers.
 
 ### Jul 2010 - Sep 2010 | Avalon Sciences, Somerset
 
-*Junior electronics design engineer*
+*Junior Electronics Design Engineer*
 
 A new current sensing product, using an embedded microprocessor, was
 developed. A bespoke PCB was designed (Altium Designer) and
