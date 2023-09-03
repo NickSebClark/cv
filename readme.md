@@ -17,7 +17,7 @@ quickly to unfamiliar and demanding technical challenges.
 
 ## Employment
 
-### May 2018 - Present, YASA
+### May 2018 - Present | YASA
 *Lead Technical Specialist - Innovation Software*
 
 Leading a team in the innovation group developing software (Python and
