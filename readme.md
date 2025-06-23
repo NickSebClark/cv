@@ -12,7 +12,12 @@ quickly to unfamiliar and demanding technical challenges.
 
 ## Employment
 
-May 2018 - Present | **YASA**\
+Jan 2025 - Present | **Magdrive**\
+Senior Electrical Engineer*
+
+Primary responsibility to build test systems.  
+
+May 2018 - Jan 2025 | **YASA**\
 *Lead Technical Specialist - Innovation Software*
 
 Leading a team in the innovation group developing software (Python and
