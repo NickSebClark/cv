@@ -15,7 +15,9 @@ quickly to unfamiliar and demanding technical challenges.
 Jan 2025 - Present | **Magdrive**\
 *Senior Electrical Engineer*
 
-Primary responsibility to build test systems.  
+Primary responsibility to build test systems.
+
+---
 
 May 2018 - Jan 2025 | **YASA**\
 *Lead Technical Specialist - Innovation Software*
@@ -35,12 +37,16 @@ software including a MySQL data management back-end.
 Lead developer for data acquisition and analysis software for YASA's
 first serial production End-Of-Line tester.
 
+---
+
 Sept 2017 - Apr 2018 | **Sharp Laboratories of Europe**\
 *Research Scientist*
 
 Leading development of touch sensors for OLED displays. A new touch
 sensor design was researched, proposed and simulated before a
 prototype was designed and tested.
+
+---
 
 Apr 2017 - Aug 2017 | **Cardiff University**\
 *Research Associate*
@@ -50,12 +56,16 @@ system. A bespoke mixed signal PCB with embedded control was developed
 to act as a microwave source. A complete and robust system was
 presented to enable further research and ongoing cross disciplinary activity.
 
+---
+
 Sep 2011 - Sep 2012 | **National Instruments UK**\
 *Applications Engineer*
 
 An internship involving providing support for all of NI's extensive
 product range. Led training in advanced LabVIEW topics and produced
 several prototypes and proof-of-concept projects for customers.
+
+---
 
 Jul 2010 - Sep 2010 | **Avalon Sciences, Somerset**\
 *Junior Electronics Design Engineer*
@@ -78,6 +88,8 @@ building test systems in LabVIEW, data analysis in Matlab, modelling
 of sensor systems and the development of RF test electronics. The work
 resulted in the filing of a patent and several academic publications.
 
+---
+
 2009 - 2013 | **Cardiff University**\
 *BEng Computer Systems Engineering, 1st*
 
@@ -85,6 +97,8 @@ Final year project involved the development of a complete amplifier
 test system based upon NI USRP and was a finalist in the NI student
 design competition. Awarded the Page Fund prize for final year
 performance.
+
+---
 
 2001 - 2008 A-Levels: Further Mathematics (A), Mathematics (A), Physics
 (A)\
