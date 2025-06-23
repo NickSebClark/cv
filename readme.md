@@ -13,7 +13,7 @@ quickly to unfamiliar and demanding technical challenges.
 ## Employment
 
 Jan 2025 - Present | **Magdrive**\
-Senior Electrical Engineer*
+*Senior Electrical Engineer*
 
 Primary responsibility to build test systems.  
 
